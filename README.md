@@ -1,7 +1,7 @@
 # GSP_SSI_2019
 This repository was created for Green Scholar's Program SSI camp hosted at Amazon's Lab 126 for the summer of 2019!
 
-Works cited:
+# Works cited:
 
 Downey, Allen (2016) “Think Python: How to Think Like a Computer Scientist”. O’Reilly Books
 
